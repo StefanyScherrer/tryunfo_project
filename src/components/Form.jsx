@@ -113,8 +113,7 @@ class Form extends Component {
                 name="cardTrunfo"
               />
             </label>
-          )
-        }
+          ) }
         <button
           data-testid="save-button"
           name="save"
